@@ -1,0 +1,6 @@
+{
+  "name": "Camp Clock",
+  "description": "Digital clock with alarms and daily reminders in a summer camp theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
